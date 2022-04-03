@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:oop_bayes_app/display.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const tes());
 }
 
 class MyApp extends StatelessWidget {
