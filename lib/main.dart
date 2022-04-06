@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:oop_bayes_app/display.dart';
 
 void main() {
-  runApp(const tes());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
